@@ -41,6 +41,7 @@ on:
           - h68k
           - h69k
           - h88k
+          - h28k
           - hugsun-zm
           - ipc-r
           - king3399
